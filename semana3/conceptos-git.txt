@@ -1,0 +1,3 @@
+Repositorio: Es un archivo digital o espacio de almacenamiento donde se gestiona y se almacena con los codigos fuente de un proyecto de software donde se encuentra el historial y modificaciones realizadas, mantiene el codigo organizado facilitando el acceso a en cualquier momento.
+Commit: Es el comando de confirmar el guardado del archivo o documento donde queda el codigo del proceso y queda el historial, en si funciona como un punto de control en el historial donde se describe cambios realizados.
+Push: Es el comando donde se transfiera y se actualizara en modificaciones locales hacia el repositorio remoto alojado en la plataforma GitHub, el codigo se respalda en la nube y es forma de acceso a otros colaboradores.
